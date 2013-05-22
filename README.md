@@ -47,5 +47,5 @@ Either contact us through the website:
     http://vimmaniac.com/contact-us/
 
 Or send an email to -
-    Vimmaniac Private Limited <vimmaniac AT gmail DOT com>
-    Titon Barua <titanix88 AT gmail DOT com>
+    Vimmaniac Private Limited vimmaniac AT gmail DOT com
+    Titon Barua titanix88 AT gmail DOT com
