@@ -7,7 +7,7 @@ following link -
     http://pypy.org/download.html
 
 Installing pypy is simply a matter of unpacking it in a
-directory. Unpack feedbackloopprocessor.tar.gz to
+directory. Put iemfbl to
 another suitable location. Then simply run the following
 command to run the script -
 
@@ -47,5 +47,5 @@ Either contact us through the website:
     http://vimmaniac.com/contact-us/
 
 Or send an email to -
-    Vimmaniac Private Limited <vimmaniac@gmail.com>
-    Titon Barua <titanix88@gmail.com>
+    Vimmaniac Private Limited <vimmaniac AT gmail DOT com>
+    Titon Barua <titanix88 AT gmail DOT com>
